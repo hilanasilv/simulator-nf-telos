@@ -1,6 +1,6 @@
 ## Simulator Télos - Trilha Start 💡
 
-💻 Desenvolvimento do módulo balcão do sistema de notas fiscais Télos, aplicando os conceitos do módulo de Lógica de Programação em Javascript, como Entrada e Saída, Estruturas de Dados, Estruturas Condicionais, Estruturas de lopping e Variáveis.
+💻 Desenvolvimento do módulo balcão do sistema de notas fiscais Télos. Aplicando os conceitos do módulo de Lógica de Programação em Javascript, como Entrada e Saída, Estruturas de Dados, Estruturas Condicionais, Estruturas de lopping e Variáveis.
 
 <img src="https://github.com/hilanasilv/simulator-nf-telos/assets/130328903/dcbb517c-f7bc-4126-8378-e9689e0c1b6c">
 
